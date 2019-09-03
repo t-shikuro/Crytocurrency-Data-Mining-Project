@@ -8,7 +8,7 @@
 * Theo Shin
 
 # Project Description
-Using a data set with millions of data points, answer interesting questions correlated with the data to be mined.
+Using a data set with millions of data points to answer interesting questions correlated with the data to be mined.
 ***
 
 ## Introduction:
