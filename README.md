@@ -1,2 +1,16 @@
 # CSPB-4502-Data-Mining-Project
-Go through the full data mining process: defining interesting questions, data collection, data preprocessing, data mining technique
+
+
+## Team Members
+* Inderpal Dhillon
+* James Beedle
+* Lauren Deans
+* Theo Shin
+
+# Project Description
+Using a data set with millions of data points, answer interesting questions correlated with the data to be mined.
+***
+
+## Introduction:
+TBD
+***
