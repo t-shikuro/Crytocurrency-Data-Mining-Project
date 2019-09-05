@@ -1,7 +1,7 @@
 # CSPB-4502-Data-Mining-Project
 
 
-## Team Members
+## Group 2 Team Members
 * Inderpal Dhillon
 * James Beedle
 * Lauren Deans
