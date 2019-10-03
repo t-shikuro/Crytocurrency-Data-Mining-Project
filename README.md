@@ -8,9 +8,9 @@
 * Theo Shin
 
 # Project Description
-Using a data set with millions of data points to answer interesting questions correlated with the data to be mined.
+Looking at past cryptocurrency trends using 'DataJuicers cryptodatabase' to build a prediction modeler. The .csv file contains ticks for all tradable currecies (bitcoin, ethereum, litecoin, ripple) beginning 2018-08-15. 
 ***
 
-## Introduction:
+## Summary of Questions:
 TBD
 ***
