@@ -12,5 +12,5 @@ Looking at past cryptocurrency trends using 'DataJuicers cryptodatabase' to buil
 ***
 
 ## Summary of Questions:
-TBD
+Questions and deeper meanings we would like to uncover include which currency provides the best average returns for investments, are trends consistent amongst various groups/countries, unique correlations which can potentially be linked to our predictions, can we accurately forecast using our prediction models? Similarly, does a USD dollar increase in Bitcoin lead to a similar increase across a basket of currency indices. 
 ***
