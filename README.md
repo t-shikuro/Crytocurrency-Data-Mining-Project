@@ -28,6 +28,7 @@ Given a 1$ increase in bitcoin, on average the coins reacted as follows:
 * LTC = + $0.0082
 * XRP = - 2.394e-05
 
+After conducting the other statistical analysis methods (k-nearest neighbor, decision trees, and feature selection of moving averages and relative strength index), we concluded what the best features were to include within each model to yield the most accurate results. For the moving averages and relative strength index, we found that MA15 and MA200 along with RSI200 were the most optimal choices for features for the predictive models. We also found that using the K-nearest neighbor method, the optimal number of clusters was 34 given our dataset. We also concluded that using decision trees, a max-depth of 3 yielded the most optimal results to utilize with our predictive models. 
 ***
 
 ## Application of the Knowledge:
