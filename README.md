@@ -44,6 +44,7 @@ The price of BTC went up by a dollar in a short span of 4 seconds. The last LTC 
 ## To Run TA-LIB for Part 2: Prediction Models
 Install TA-LIB via pip using wheel from https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib. 
 
-## Link to Video Demonstration
+## Link to Video Presentation
+Here is a link to our project presentation: https://youtu.be/U-ajDw8hR2o
 
 ## Link to Final Project Paper
