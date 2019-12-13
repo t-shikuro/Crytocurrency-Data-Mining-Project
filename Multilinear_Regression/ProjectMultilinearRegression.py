@@ -7,8 +7,8 @@ import statsmodels.api as sm
 #%%
 x = pd.read_csv('matrix_second_filledforward.csv', index_col = "time") # read out data
 y = pd.read_csv("normalizedmatrix.csv")
-x = x.fillna(method='ffill')  #forward fills values
-#y = y.fillna(method='ffill')
+#x = x.fillna(method='ffill')  #forward fills values
+y = y.fillna(method='ffill')
 x = x[["bch","btc","eth","ltc","xrp"]]
 y = y[["bch","btc","eth","ltc","xrp"]]
 #%%
