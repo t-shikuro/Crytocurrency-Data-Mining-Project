@@ -20,13 +20,13 @@ y
 #%%
 y.describe(include="all")
 # %%
-model_trn = smf.ols(formula='bch~btc+eth+ltc', data=x).fit()
+model_trn = smf.ols(formula='bch~btc+eth+ltc+xrp', data=x).fit()
 model_trn.summary()
 # %%
-model_trn = smf.ols(formula='btc~bch+eth+ltc', data=x).fit()
+model_trn = smf.ols(formula='btc~bch+eth+ltc+xrp', data=x).fit()
 model_trn.summary()
 # %%
-model_trn = smf.ols(formula='eth~btc+bch+ltc', data=x).fit()
+model_trn = smf.ols(formula='eth~btc+bch+ltc+xrp', data=x).fit()
 model_trn.summary()
 # %%
 model_trn = smf.ols(formula='ltc~btc+bch+eth+xrp', data=x).fit()
@@ -54,9 +54,9 @@ goodnum = 0
 for idx, list1 in enumerate(test.values):
     if not np.isnan(list1) and not np.isnan(real[idx]):
         goodnum = goodnum + 1
-        print(list1,real[idx])
+        #print(list1,real[idx])
         avg = avg + (abs(list1-real[idx])/real[idx])
-        print(abs(list1-real[idx])/real[idx])
+        #print(abs(list1-real[idx])/real[idx])
 
 # %%
 print(avg/ goodnum)
