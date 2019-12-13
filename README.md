@@ -41,6 +41,9 @@ Consider these fabricated trades as an example:
 The price of BTC went up by a dollar in a short span of 4 seconds. The last LTC trade executed was at the first second of the minute at 57.82. According to our algorithm, the value of LTC at 18:55:05 given the rise in BTC is 57.8282. Our goal now is to buy as many LTC coins in the open market for under 57.8282 as possible. During the inverse event when the price is dropping, our algorithm will attempt to sell coins it deems as overvalued. If our model turns out to be accurate, and we are fast enough. Over the long run, we will be able to keep these small differences between our predicted value of a coin and its market value as profit.
 ***
 
+## To Run TA-LIB for Part 2: Prediction Models
+Install TA-LIB via pip using wheel from https://www.lfd.uci.edu/~gohlke/pythonlibs/#ta-lib. 
+
 ## Link to Video Demonstration
 
 ## Link to Final Project Paper
