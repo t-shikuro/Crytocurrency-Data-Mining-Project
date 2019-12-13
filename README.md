@@ -49,4 +49,4 @@ Install TA-LIB via pip using wheel from https://www.lfd.uci.edu/~gohlke/pythonli
 Here is a link to our project presentation: https://youtu.be/U-ajDw8hR2o
 
 ## Link to Final Project Paper
-02_MiningForCrytoCurrencies_Part4.pdf
+https://github.com/tshin23/CSPB-4502-Data-Mining-Project/blob/master/02_MiningForCrytoCurrencies_Part4.pdf
