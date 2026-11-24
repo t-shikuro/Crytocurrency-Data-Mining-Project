@@ -2,7 +2,7 @@
 
 
 ## Group 2 Team Members
-* Ted Shikuro
+* Ted Shin
 * Inderpal Dhillon
 * James Beedle
 * Lauren Deans
